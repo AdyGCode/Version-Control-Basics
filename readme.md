@@ -94,3 +94,17 @@ In the future, you will only need to do a `git add`, `git commit` and then `git 
 ## Pulling Changes from Remote
 
 use `git pull`
+
+
+## Clone a Repo to local machine
+
+Use the command:
+```shell
+git clone Repository-URL
+```
+
+For example, to clone this repo to your local machine use:
+
+```shell
+git clone https://github.com/AdyGCode/Version-Control-Basics.git
+```
