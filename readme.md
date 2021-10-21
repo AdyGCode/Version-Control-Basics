@@ -72,6 +72,8 @@ git remote add origin https://github.com/AdyGCode/Version-Control-Basics.git
 
 git branch -M main
 
-git push -u origin main```
+git push -u origin main
+```
 
 In the future, you will only need to do a `git add`, `git commit` and then `git push` to upload the changes you have made.
+
